@@ -5,51 +5,33 @@
   <evaluateDefaultValues active="0"/>
   <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
     <customproperties/>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="BGF_flate20170728142824282" source="C:/Users/peterhor/Desktop/BGF_final_Ås/VECTOR/BGF_flate.shp" name="BGF_flate">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="BGF_flate20170728142824282" source="C:/Users/peterhor/Documents/GitHub/BGF-QGIS/BGF_QGIS_GitHub/VECTOR/BGF_flate.shp" name="BGF_flate">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="BGF_locality_area20170801170703358" source="C:/Users/peterhor/Desktop/BGF_final_Ås/VECTOR/BGF_locality_area.shp" name="BGF_locality_area">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="BGF_locality_area20170801170703358" source="C:/Users/peterhor/Documents/GitHub/BGF-QGIS/BGF_QGIS_GitHub/VECTOR/BGF_locality_area.shp" name="BGF_locality_area">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-group expanded="1" checked="Qt::Unchecked" name="Vector_data">
       <customproperties/>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="0214_Eiendom_teiggrense__Linje_20170805184701568" source="C:/Users/peterhor/Desktop/BGF_final_Ås/VECTOR/0214_Eiendom teiggrense (Linje).shp" name="0214_Eiendom teiggrense (Linje)">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="Bygning_polygon20170805184701584" source="C:/Users/peterhor/Desktop/BGF_final_Ås/VECTOR/Bygning_polygon.shp" name="Bygning_polygon">
-        <customproperties/>
-      </layer-tree-layer>
     </layer-tree-group>
-    <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="WMS_raster_data">
+    <layer-tree-group expanded="1" checked="Qt::Checked" name="WMS_raster_data">
       <customproperties/>
-      <layer-tree-layer expanded="1" providerKey="" checked="Qt::Checked" id="OpenLayers_plugin_layer20171108183329550" source="" name="Google Satellite">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="wms" checked="Qt::Unchecked" id="BYGNING20170728182402349" source="contextualWMSLegend=0&amp;crs=EPSG:32632&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=BYGNING&amp;styles=&amp;url=http://195.1.20.83/wms-follo/" name="BYGNING">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="wms" checked="Qt::Unchecked" id="EIENDOMSKART20170728182519731" source="contextualWMSLegend=0&amp;crs=EPSG:32632&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=EIENDOMSKART&amp;styles=&amp;url=http://195.1.20.83/wms-follo/" name="EIENDOMSKART">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="wms" checked="Qt::Unchecked" id="ORTOFOTO1320170805164047313" source="contextualWMSLegend=0&amp;crs=EPSG:32632&amp;dpiMode=7&amp;featureCount=10&amp;format=image/jpeg&amp;layers=ORTOFOTO13&amp;styles=&amp;url=http://195.1.20.83/wms-follo/" name="ORTOFOTO13">
-        <customproperties/>
-      </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="wms" checked="Qt::Unchecked" id="FLYFOTO1420170728103239421" source="contextualWMSLegend=0&amp;crs=EPSG:32632&amp;dpiMode=7&amp;featureCount=10&amp;format=image/jpeg&amp;layers=FLYFOTO14&amp;styles=&amp;url=http://195.1.20.83/wms-follo/" name="FLYFOTO14">
+      <layer-tree-layer expanded="1" providerKey="" checked="Qt::Checked" id="OpenLayers_plugin_layer20171108183329550" source="C:/Users/peterhor/Documents/GitHub/BGF-QGIS/BGF_QGIS_GitHub" name="Google Satellite">
         <customproperties/>
       </layer-tree-layer>
     </layer-tree-group>
     <layer-tree-group expanded="0" checked="Qt::Unchecked" name="CSV_data">
       <customproperties/>
-      <layer-tree-layer expanded="1" providerKey="delimitedtext" checked="Qt::Unchecked" id="1_EN_bluegreen_areas20170801182754255" source="file:///C:/Users/peterhor/Desktop/BGF_final_%C3%85s/CSV/1_EN_bluegreen_areas.csv?type=csv&amp;delimiter=%5Ct;&amp;geomType=none&amp;subsetIndex=no&amp;watchFile=no" name="1_EN_bluegreen_areas">
+      <layer-tree-layer expanded="1" providerKey="delimitedtext" checked="Qt::Unchecked" id="1_EN_bluegreen_areas20170801182754255" source="file:///C:/Users/peterhor/Documents/GitHub/BGF-QGIS/BGF_QGIS_GitHub/CSV/1_EN_bluegreen_areas.csv?type=csv&amp;delimiter=%5Ct;&amp;geomType=none&amp;subsetIndex=no&amp;watchFile=no" name="1_EN_bluegreen_areas">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="delimitedtext" checked="Qt::Unchecked" id="2_EN20170801153242091" source="file:///C:/Users/peterhor/Desktop/BGF_final_%C3%85s/CSV/2_EN.csv?type=csv&amp;delimiter=%5Ct;&amp;geomType=none&amp;subsetIndex=no&amp;watchFile=no" name="2_EN">
+      <layer-tree-layer expanded="1" providerKey="delimitedtext" checked="Qt::Unchecked" id="2_EN20170801153242091" source="file:///C:/Users/peterhor/Documents/GitHub/BGF-QGIS/BGF_QGIS_GitHub/CSV/2_EN.csv?type=csv&amp;delimiter=%5Ct;&amp;geomType=none&amp;subsetIndex=no&amp;watchFile=no" name="2_EN">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="delimitedtext" checked="Qt::Unchecked" id="BGF_EN20170801152229717" source="file:///C:/Users/peterhor/Desktop/BGF_final_%C3%85s/CSV/BGF_EN.csv?type=csv&amp;delimiter=%5Ct;&amp;geomType=none&amp;subsetIndex=no&amp;watchFile=no" name="BGF_EN">
+      <layer-tree-layer expanded="1" providerKey="delimitedtext" checked="Qt::Unchecked" id="BGF_EN20170801152229717" source="file:///C:/Users/peterhor/Documents/GitHub/BGF-QGIS/BGF_QGIS_GitHub/CSV/BGF_EN.csv?type=csv&amp;delimiter=%5Ct;&amp;geomType=none&amp;subsetIndex=no&amp;watchFile=no" name="BGF_EN">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="delimitedtext" checked="Qt::Unchecked" id="0_EN20170801152221137" source="file:///C:/Users/peterhor/Desktop/BGF_final_%C3%85s/CSV/0_EN.csv?type=csv&amp;delimiter=%5Ct;&amp;geomType=none&amp;subsetIndex=no&amp;watchFile=no" name="0_EN">
+      <layer-tree-layer expanded="1" providerKey="delimitedtext" checked="Qt::Unchecked" id="0_EN20170801152221137" source="file:///C:/Users/peterhor/Documents/GitHub/BGF-QGIS/BGF_QGIS_GitHub/CSV/0_EN.csv?type=csv&amp;delimiter=%5Ct;&amp;geomType=none&amp;subsetIndex=no&amp;watchFile=no" name="0_EN">
         <customproperties/>
       </layer-tree-layer>
     </layer-tree-group>
@@ -58,50 +40,40 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>1200650.84917478286661208</xmin>
-      <ymin>8324808.31103053968399763</ymin>
-      <xmax>1201971.92830187478102744</xmax>
-      <ymax>8325608.54264493566006422</ymax>
+      <xmin>592940.06985944847110659</xmin>
+      <ymin>6641629.90094465482980013</ymin>
+      <xmax>599572.49827702192123979</xmax>
+      <ymax>6645981.63557032961398363</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
     <destinationsrs>
       <spatialrefsys>
-        <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs</proj4>
-        <srsid>3857</srsid>
-        <srid>3857</srid>
-        <authid>EPSG:3857</authid>
-        <description>WGS 84 / Pseudo Mercator</description>
-        <projectionacronym>merc</projectionacronym>
+        <proj4>+proj=utm +zone=32 +datum=WGS84 +units=m +no_defs</proj4>
+        <srsid>3116</srsid>
+        <srid>32632</srid>
+        <authid>EPSG:32632</authid>
+        <description>WGS 84 / UTM zone 32N</description>
+        <projectionacronym>utm</projectionacronym>
         <ellipsoidacronym>WGS84</ellipsoidacronym>
         <geographicflag>false</geographicflag>
       </spatialrefsys>
     </destinationsrs>
     <rendermaptile>0</rendermaptile>
     <layer_coordinate_transform_info>
-      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:32632" srcDatumTransform="-1" destDatumTransform="-1" layerid="BGF_locality_area20170801170703358"/>
-      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:3044" srcDatumTransform="-1" destDatumTransform="-1" layerid="Bygning_polygon20170805184701584"/>
-      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:32632" srcDatumTransform="-1" destDatumTransform="-1" layerid="BGF_flate20170728142824282"/>
-      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="OpenLayers_plugin_layer20171108183329550"/>
-      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:32632" srcDatumTransform="-1" destDatumTransform="-1" layerid="ORTOFOTO1320170805164047313"/>
-      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:25832" srcDatumTransform="-1" destDatumTransform="-1" layerid="0214_Eiendom_teiggrense__Linje_20170805184701568"/>
-      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:32632" srcDatumTransform="-1" destDatumTransform="-1" layerid="FLYFOTO1420170728103239421"/>
+      <layer_coordinate_transform destAuthId="EPSG:32632" srcAuthId="EPSG:32632" srcDatumTransform="-1" destDatumTransform="-1" layerid="BGF_locality_area20170801170703358"/>
+      <layer_coordinate_transform destAuthId="EPSG:32632" srcAuthId="EPSG:32632" srcDatumTransform="-1" destDatumTransform="-1" layerid="BGF_flate20170728142824282"/>
+      <layer_coordinate_transform destAuthId="EPSG:32632" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="OpenLayers_plugin_layer20171108183329550"/>
     </layer_coordinate_transform_info>
   </mapcanvas>
   <layer-tree-canvas>
     <custom-order enabled="0">
-      <item>FLYFOTO1420170728103239421</item>
       <item>BGF_flate20170728142824282</item>
-      <item>BYGNING20170728182402349</item>
-      <item>EIENDOMSKART20170728182519731</item>
       <item>0_EN20170801152221137</item>
       <item>BGF_EN20170801152229717</item>
       <item>2_EN20170801153242091</item>
       <item>BGF_locality_area20170801170703358</item>
       <item>1_EN_bluegreen_areas20170801182754255</item>
-      <item>ORTOFOTO1320170805164047313</item>
-      <item>0214_Eiendom_teiggrense__Linje_20170805184701568</item>
-      <item>Bygning_polygon20170805184701584</item>
       <item>OpenLayers_plugin_layer20171108183329550</item>
     </custom-order>
   </layer-tree-canvas>
@@ -116,42 +88,11 @@
         <legendlayerfile isInOverview="0" layerid="BGF_locality_area20170801170703358" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendgroup open="true" checked="Qt::Unchecked" name="Vector_data">
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="0214_Eiendom teiggrense (Linje)" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="0214_Eiendom_teiggrense__Linje_20170805184701568" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Bygning_polygon" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="Bygning_polygon20170805184701584" visible="0"/>
-        </filegroup>
-      </legendlayer>
-    </legendgroup>
-    <legendgroup open="true" checked="Qt::PartiallyChecked" name="WMS_raster_data">
+    <legendgroup open="true" checked="Qt::Unchecked" name="Vector_data"/>
+    <legendgroup open="true" checked="Qt::Checked" name="WMS_raster_data">
       <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Google Satellite" showFeatureCount="0">
         <filegroup open="true" hidden="false">
           <legendlayerfile isInOverview="0" layerid="OpenLayers_plugin_layer20171108183329550" visible="1"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="BYGNING" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="BYGNING20170728182402349" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="EIENDOMSKART" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="EIENDOMSKART20170728182519731" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="ORTOFOTO13" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="ORTOFOTO1320170805164047313" visible="0"/>
-        </filegroup>
-      </legendlayer>
-      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="FLYFOTO14" showFeatureCount="0">
-        <filegroup open="true" hidden="false">
-          <legendlayerfile isInOverview="0" layerid="FLYFOTO1420170728103239421" visible="0"/>
         </filegroup>
       </legendlayer>
     </legendgroup>
@@ -204,7 +145,7 @@
           <customproperties/>
         </ComposerItem>
       </ComposerLabel>
-      <ComposerPicture resizeMode="0" svgBorderWidth="0.2" pictureRotation="0" pictureWidth="18.2021" svgFillColor="255,255,255,255" svgBorderColor="0,0,0,255" northMode="0" file="../../../../PROGRA~1/QGIS2~1.18/apps/qgis/svg/arrows/NorthArrow_10.svg" northOffset="0" pictureHeight="23.5732" mapId="0" anchorPoint="0">
+      <ComposerPicture resizeMode="0" svgBorderWidth="0.2" pictureRotation="0" pictureWidth="23.4295" svgFillColor="255,255,255,255" svgBorderColor="0,0,0,255" northMode="0" file="../../../../PROGRA~1/QGIS2~1.18/apps/qgis/svg/arrows/NorthArrow_10.svg" northOffset="0" pictureHeight="23.5732" mapId="0" anchorPoint="0">
         <ComposerItem pagey="122.452" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="264.255" y="122.452" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="26.9408" outlineWidth="0.3" excludeFromExports="0" uuid="{a4f85444-8793-4869-aad8-e632b3e2ee55}" height="23.5732" itemRotation="0" frame="false" pagex="264.255">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
@@ -249,10 +190,10 @@
         </styles>
         <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
           <customproperties/>
-          <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="BGF_flate20170728142824282" source="C:/Users/peterhor/Desktop/BGF_final_Ås/VECTOR/BGF_flate.shp" name="BGF_flate">
+          <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="BGF_flate20170728142824282" source="C:/Users/peterhor/Documents/GitHub/BGF-QGIS/BGF_QGIS_GitHub/VECTOR/BGF_flate.shp" name="BGF_flate">
             <customproperties/>
           </layer-tree-layer>
-          <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="BGF_locality_area20170801170703358" source="C:/Users/peterhor/Desktop/BGF_final_Ås/VECTOR/BGF_locality_area.shp" name="BGF_locality_area">
+          <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="BGF_locality_area20170801170703358" source="C:/Users/peterhor/Documents/GitHub/BGF-QGIS/BGF_QGIS_GitHub/VECTOR/BGF_locality_area.shp" name="BGF_locality_area">
             <customproperties/>
           </layer-tree-layer>
           <layer-tree-group expanded="1" checked="Qt::Unchecked" name="Vector_data">
@@ -363,378 +304,6 @@
     </Composition>
   </Composer>
   <projectlayers>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
-      <extent>
-        <xmin>594304.91015625</xmin>
-        <ymin>6607474.1796875</ymin>
-        <xmax>606752.91015625</xmax>
-        <ymax>6626704.7001953125</ymax>
-      </extent>
-      <id>0214_Eiendom_teiggrense__Linje_20170805184701568</id>
-      <datasource>./VECTOR/0214_Eiendom teiggrense (Linje).shp</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>0214_Eiendom teiggrense (Linje)</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=utm +zone=32 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
-          <srsid>2105</srsid>
-          <srid>25832</srid>
-          <authid>EPSG:25832</authid>
-          <description>ETRS89 / UTM zone 32N</description>
-          <projectionacronym>utm</projectionacronym>
-          <ellipsoidacronym>GRS80</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <provider encoding="System">ogr</provider>
-      <vectorjoins/>
-      <layerDependencies/>
-      <expressionfields/>
-      <map-layer-style-manager current="">
-        <map-layer-style name=""/>
-      </map-layer-style-manager>
-      <edittypes>
-        <edittype widgetv2type="TextEdit" name="ADM_GRENSE">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="DATAFANGST">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="FØLGER_TER">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="GRENSE-ID">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="HJELPELINJ">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="INFORMASJO">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="KVALITET.M">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="KVALITET.N">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="OMTVISTET">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="OPPDATERIN">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="LAG">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="POSTNUMMER">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-      </edittypes>
-      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
-        <symbols>
-          <symbol alpha="1" clip_to_extent="1" type="line" name="0">
-            <layer pass="0" class="SimpleLine" locked="0">
-              <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="5;2"/>
-              <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="customdash_unit" v="MM"/>
-              <prop k="draw_inside_polygon" v="0"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="line_color" v="255,50,77,255"/>
-              <prop k="line_style" v="solid"/>
-              <prop k="line_width" v="0.26"/>
-              <prop k="line_width_unit" v="MM"/>
-              <prop k="offset" v="0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="use_custom_dash" v="0"/>
-              <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
-            </layer>
-          </symbol>
-        </symbols>
-        <rotation/>
-        <sizescale scalemethod="diameter"/>
-      </renderer-v2>
-      <labeling type="simple"/>
-      <customproperties>
-        <property key="embeddedWidgets/count" value="0"/>
-        <property key="labeling" value="pal"/>
-        <property key="labeling/addDirectionSymbol" value="false"/>
-        <property key="labeling/angleOffset" value="0"/>
-        <property key="labeling/blendMode" value="0"/>
-        <property key="labeling/bufferBlendMode" value="0"/>
-        <property key="labeling/bufferColorA" value="255"/>
-        <property key="labeling/bufferColorB" value="255"/>
-        <property key="labeling/bufferColorG" value="255"/>
-        <property key="labeling/bufferColorR" value="255"/>
-        <property key="labeling/bufferDraw" value="false"/>
-        <property key="labeling/bufferJoinStyle" value="128"/>
-        <property key="labeling/bufferNoFill" value="false"/>
-        <property key="labeling/bufferSize" value="1"/>
-        <property key="labeling/bufferSizeInMapUnits" value="false"/>
-        <property key="labeling/bufferSizeMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/bufferTransp" value="0"/>
-        <property key="labeling/centroidInside" value="false"/>
-        <property key="labeling/centroidWhole" value="false"/>
-        <property key="labeling/decimals" value="3"/>
-        <property key="labeling/displayAll" value="false"/>
-        <property key="labeling/dist" value="0"/>
-        <property key="labeling/distInMapUnits" value="false"/>
-        <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/drawLabels" value="false"/>
-        <property key="labeling/enabled" value="false"/>
-        <property key="labeling/fieldName" value=""/>
-        <property key="labeling/fitInPolygonOnly" value="false"/>
-        <property key="labeling/fontCapitals" value="0"/>
-        <property key="labeling/fontFamily" value="MS Shell Dlg 2"/>
-        <property key="labeling/fontItalic" value="false"/>
-        <property key="labeling/fontLetterSpacing" value="0"/>
-        <property key="labeling/fontLimitPixelSize" value="false"/>
-        <property key="labeling/fontMaxPixelSize" value="10000"/>
-        <property key="labeling/fontMinPixelSize" value="3"/>
-        <property key="labeling/fontSize" value="8.25"/>
-        <property key="labeling/fontSizeInMapUnits" value="false"/>
-        <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/fontStrikeout" value="false"/>
-        <property key="labeling/fontUnderline" value="false"/>
-        <property key="labeling/fontWeight" value="50"/>
-        <property key="labeling/fontWordSpacing" value="0"/>
-        <property key="labeling/formatNumbers" value="false"/>
-        <property key="labeling/isExpression" value="true"/>
-        <property key="labeling/labelOffsetInMapUnits" value="true"/>
-        <property key="labeling/labelOffsetMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/labelPerPart" value="false"/>
-        <property key="labeling/leftDirectionSymbol" value="&lt;"/>
-        <property key="labeling/limitNumLabels" value="false"/>
-        <property key="labeling/maxCurvedCharAngleIn" value="25"/>
-        <property key="labeling/maxCurvedCharAngleOut" value="-25"/>
-        <property key="labeling/maxNumLabels" value="2000"/>
-        <property key="labeling/mergeLines" value="false"/>
-        <property key="labeling/minFeatureSize" value="0"/>
-        <property key="labeling/multilineAlign" value="4294967295"/>
-        <property key="labeling/multilineHeight" value="1"/>
-        <property key="labeling/namedStyle" value="Normal"/>
-        <property key="labeling/obstacle" value="true"/>
-        <property key="labeling/obstacleFactor" value="1"/>
-        <property key="labeling/obstacleType" value="0"/>
-        <property key="labeling/offsetType" value="0"/>
-        <property key="labeling/placeDirectionSymbol" value="0"/>
-        <property key="labeling/placement" value="2"/>
-        <property key="labeling/placementFlags" value="10"/>
-        <property key="labeling/plussign" value="false"/>
-        <property key="labeling/predefinedPositionOrder" value="TR,TL,BR,BL,R,L,TSR,BSR"/>
-        <property key="labeling/preserveRotation" value="true"/>
-        <property key="labeling/previewBkgrdColor" value="#ffffff"/>
-        <property key="labeling/priority" value="5"/>
-        <property key="labeling/quadOffset" value="4"/>
-        <property key="labeling/repeatDistance" value="0"/>
-        <property key="labeling/repeatDistanceMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/repeatDistanceUnit" value="1"/>
-        <property key="labeling/reverseDirectionSymbol" value="false"/>
-        <property key="labeling/rightDirectionSymbol" value=">"/>
-        <property key="labeling/scaleMax" value="10000000"/>
-        <property key="labeling/scaleMin" value="1"/>
-        <property key="labeling/scaleVisibility" value="false"/>
-        <property key="labeling/shadowBlendMode" value="6"/>
-        <property key="labeling/shadowColorB" value="0"/>
-        <property key="labeling/shadowColorG" value="0"/>
-        <property key="labeling/shadowColorR" value="0"/>
-        <property key="labeling/shadowDraw" value="false"/>
-        <property key="labeling/shadowOffsetAngle" value="135"/>
-        <property key="labeling/shadowOffsetDist" value="1"/>
-        <property key="labeling/shadowOffsetGlobal" value="true"/>
-        <property key="labeling/shadowOffsetMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shadowOffsetUnits" value="1"/>
-        <property key="labeling/shadowRadius" value="1.5"/>
-        <property key="labeling/shadowRadiusAlphaOnly" value="false"/>
-        <property key="labeling/shadowRadiusMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shadowRadiusUnits" value="1"/>
-        <property key="labeling/shadowScale" value="100"/>
-        <property key="labeling/shadowTransparency" value="30"/>
-        <property key="labeling/shadowUnder" value="0"/>
-        <property key="labeling/shapeBlendMode" value="0"/>
-        <property key="labeling/shapeBorderColorA" value="255"/>
-        <property key="labeling/shapeBorderColorB" value="128"/>
-        <property key="labeling/shapeBorderColorG" value="128"/>
-        <property key="labeling/shapeBorderColorR" value="128"/>
-        <property key="labeling/shapeBorderWidth" value="0"/>
-        <property key="labeling/shapeBorderWidthMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shapeBorderWidthUnits" value="1"/>
-        <property key="labeling/shapeDraw" value="false"/>
-        <property key="labeling/shapeFillColorA" value="255"/>
-        <property key="labeling/shapeFillColorB" value="255"/>
-        <property key="labeling/shapeFillColorG" value="255"/>
-        <property key="labeling/shapeFillColorR" value="255"/>
-        <property key="labeling/shapeJoinStyle" value="64"/>
-        <property key="labeling/shapeOffsetMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shapeOffsetUnits" value="1"/>
-        <property key="labeling/shapeOffsetX" value="0"/>
-        <property key="labeling/shapeOffsetY" value="0"/>
-        <property key="labeling/shapeRadiiMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shapeRadiiUnits" value="1"/>
-        <property key="labeling/shapeRadiiX" value="0"/>
-        <property key="labeling/shapeRadiiY" value="0"/>
-        <property key="labeling/shapeRotation" value="0"/>
-        <property key="labeling/shapeRotationType" value="0"/>
-        <property key="labeling/shapeSVGFile" value=""/>
-        <property key="labeling/shapeSizeMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shapeSizeType" value="0"/>
-        <property key="labeling/shapeSizeUnits" value="1"/>
-        <property key="labeling/shapeSizeX" value="0"/>
-        <property key="labeling/shapeSizeY" value="0"/>
-        <property key="labeling/shapeTransparency" value="0"/>
-        <property key="labeling/shapeType" value="0"/>
-        <property key="labeling/substitutions" value="&lt;substitutions/>"/>
-        <property key="labeling/textColorA" value="255"/>
-        <property key="labeling/textColorB" value="0"/>
-        <property key="labeling/textColorG" value="0"/>
-        <property key="labeling/textColorR" value="0"/>
-        <property key="labeling/textTransp" value="0"/>
-        <property key="labeling/upsidedownLabels" value="0"/>
-        <property key="labeling/useSubstitutions" value="false"/>
-        <property key="labeling/wrapChar" value=""/>
-        <property key="labeling/xOffset" value="0"/>
-        <property key="labeling/yOffset" value="0"/>
-        <property key="labeling/zIndex" value="0"/>
-        <property key="variableNames"/>
-        <property key="variableValues"/>
-      </customproperties>
-      <blendMode>0</blendMode>
-      <featureBlendMode>0</featureBlendMode>
-      <layerTransparency>0</layerTransparency>
-      <displayfield>GRENSE-ID</displayfield>
-      <label>0</label>
-      <labelattributes>
-        <label fieldname="" text="Label"/>
-        <family fieldname="" name="MS Shell Dlg 2"/>
-        <size fieldname="" units="pt" value="12"/>
-        <bold fieldname="" on="0"/>
-        <italic fieldname="" on="0"/>
-        <underline fieldname="" on="0"/>
-        <strikeout fieldname="" on="0"/>
-        <color fieldname="" red="0" blue="0" green="0"/>
-        <x fieldname=""/>
-        <y fieldname=""/>
-        <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
-        <angle fieldname="" value="0" auto="0"/>
-        <alignment fieldname="" value="center"/>
-        <buffercolor fieldname="" red="255" blue="255" green="255"/>
-        <buffersize fieldname="" units="pt" value="1"/>
-        <bufferenabled fieldname="" on=""/>
-        <multilineenabled fieldname="" on=""/>
-        <selectedonly on=""/>
-      </labelattributes>
-      <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
-        <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
-          <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
-          <attribute field="" color="#000000" label=""/>
-        </DiagramCategory>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
-          <layer pass="0" class="SimpleMarker" locked="0">
-            <prop k="angle" v="0"/>
-            <prop k="color" v="255,0,0,255"/>
-            <prop k="horizontal_anchor_point" v="1"/>
-            <prop k="joinstyle" v="bevel"/>
-            <prop k="name" v="circle"/>
-            <prop k="offset" v="0,0"/>
-            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-            <prop k="offset_unit" v="MM"/>
-            <prop k="outline_color" v="0,0,0,255"/>
-            <prop k="outline_style" v="solid"/>
-            <prop k="outline_width" v="0"/>
-            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
-            <prop k="outline_width_unit" v="MM"/>
-            <prop k="scale_method" v="diameter"/>
-            <prop k="size" v="2"/>
-            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-            <prop k="size_unit" v="MM"/>
-            <prop k="vertical_anchor_point" v="1"/>
-          </layer>
-        </symbol>
-      </SingleCategoryDiagramRenderer>
-      <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="2" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform>.</annotationform>
-      <aliases>
-        <alias field="ADM_GRENSE" index="0" name=""/>
-        <alias field="DATAFANGST" index="1" name=""/>
-        <alias field="FØLGER_TER" index="2" name=""/>
-        <alias field="GRENSE-ID" index="3" name=""/>
-        <alias field="HJELPELINJ" index="4" name=""/>
-        <alias field="INFORMASJO" index="5" name=""/>
-        <alias field="KVALITET.M" index="6" name=""/>
-        <alias field="KVALITET.N" index="7" name=""/>
-        <alias field="OMTVISTET" index="8" name=""/>
-        <alias field="OPPDATERIN" index="9" name=""/>
-        <alias field="LAG" index="10" name=""/>
-        <alias field="POSTNUMMER" index="11" name=""/>
-      </aliases>
-      <excludeAttributesWMS/>
-      <excludeAttributesWFS/>
-      <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
-        <columns>
-          <column width="-1" hidden="0" type="field" name="ADM_GRENSE"/>
-          <column width="-1" hidden="0" type="field" name="DATAFANGST"/>
-          <column width="-1" hidden="0" type="field" name="FØLGER_TER"/>
-          <column width="-1" hidden="0" type="field" name="GRENSE-ID"/>
-          <column width="-1" hidden="0" type="field" name="HJELPELINJ"/>
-          <column width="-1" hidden="0" type="field" name="INFORMASJO"/>
-          <column width="-1" hidden="0" type="field" name="KVALITET.M"/>
-          <column width="-1" hidden="0" type="field" name="KVALITET.N"/>
-          <column width="-1" hidden="0" type="field" name="OMTVISTET"/>
-          <column width="-1" hidden="0" type="field" name="OPPDATERIN"/>
-          <column width="-1" hidden="0" type="field" name="LAG"/>
-          <column width="-1" hidden="0" type="field" name="POSTNUMMER"/>
-          <column width="-1" hidden="1" type="actions"/>
-        </columns>
-      </attributetableconfig>
-      <editform>.</editform>
-      <editforminit/>
-      <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath>.</editforminitfilepath>
-      <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
-"""
-QGIS forms can have a Python function that is called when the form is
-opened.
-
-Use this function to add extra logic to your forms.
-
-Enter the name of the function in the "Python Init function"
-field.
-An example follows:
-"""
-from qgis.PyQt.QtWidgets import QWidget
-
-def my_form_open(dialog, layer, feature):
-	geom = feature.geometry()
-	control = dialog.findChild(QWidget, "MyLineEdit")
-]]></editforminitcode>
-      <featformsuppress>0</featformsuppress>
-      <editorlayout>generatedlayout</editorlayout>
-      <widgets/>
-      <conditionalstyles>
-        <rowstyles/>
-        <fieldstyles/>
-      </conditionalstyles>
-      <defaults>
-        <default field="ADM_GRENSE" expression=""/>
-        <default field="DATAFANGST" expression=""/>
-        <default field="FØLGER_TER" expression=""/>
-        <default field="GRENSE-ID" expression=""/>
-        <default field="HJELPELINJ" expression=""/>
-        <default field="INFORMASJO" expression=""/>
-        <default field="KVALITET.M" expression=""/>
-        <default field="KVALITET.N" expression=""/>
-        <default field="OMTVISTET" expression=""/>
-        <default field="OPPDATERIN" expression=""/>
-        <default field="LAG" expression=""/>
-        <default field="POSTNUMMER" expression=""/>
-      </defaults>
-      <previewExpression></previewExpression>
-    </maplayer>
     <maplayer minimumScale="0" maximumScale="1e+08" readOnly="0" geometry="No geometry" type="vector" hasScaleBasedVisibilityFlag="0">
       <id>0_EN20170801152221137</id>
       <datasource>file:./CSV/0_EN.csv?type=csv&amp;delimiter=%5Ct;&amp;geomType=none&amp;subsetIndex=no&amp;watchFile=no</datasource>
@@ -1120,7 +689,7 @@ def my_form_open(dialog, layer, feature):
       <expressionfields>
         <field typeName="double" precision="2" expression=" $area " length="10" type="6" comment="" name="area"/>
         <field typeName="double" precision="3" expression="$area * &quot;1_BG_val&quot;&#xd;&#xa;" length="10" type="6" comment="" name="BGF1"/>
-        <field typeName="double" precision="3" expression="CASE&#xd;&#xa; &#x9;when  &quot;2_BG_type&quot; =  'C1' &#xd;&#xa;&#x9;then   ($area  / &quot;BGF_locality_area_loc_area&quot; ) * 100&#xd;&#xa;&#x9;when   &quot;2_BG_type&quot; =  'C2' &#xd;&#xa;&#x9;then   ($area  / &quot;BGF_locality_area_loc_area&quot; ) * 100&#xd;&#xa;    else  $area *  &quot;2_BG_val&quot; &#xd;&#xa;&#xd;&#xa;END&#xd;&#xa;" length="10" type="6" comment="" name="BGF2"/>
+        <field typeName="double" precision="3" expression="$area *  &quot;2_BG_val&quot; &#xd;&#xa;" length="10" type="6" comment="" name="BGF2"/>
         <field typeName="string" precision="0" expression=" concat( &#xd;&#xa;&#x9;left(  &quot;1_BG_surf&quot; , 1) ,  &#xd;&#xa;&#x9;left( &quot;2_BG_type&quot; , 1)&#xd;&#xa;&#x9;&#x9;)" length="20" type="10" comment="" name="BGF_Code"/>
         <field typeName="integer" precision="0" expression="geomintersects( 'BGF_locality_area',  'loc_number')" length="10" type="2" comment="" name="Loc_num"/>
         <field typeName="double" precision="3" expression="CASE&#xd;&#xa;&#x9;when &quot;loc_num&quot; = 1&#xd;&#xa;&#x9;then aggregate( 'BGF_flate', 'sum', &quot;BGF1&quot;, &#x9;filter:=&quot;loc_num&quot;=1 )&#xd;&#xa;&#x9;when &quot;loc_num&quot; = 2&#xd;&#xa;&#x9;then aggregate( 'BGF_flate', 'sum', &quot;BGF1&quot;, &#x9;filter:=&quot;loc_num&quot;=2 )&#xd;&#xa;&#x9;when &quot;loc_num&quot; = 3&#xd;&#xa;&#x9;then aggregate( 'BGF_flate', 'sum', &quot;BGF1&quot;, &#x9;filter:=&quot;loc_num&quot;=3 )&#xd;&#xa;&#x9;when &quot;loc_num&quot; = 4&#xd;&#xa;&#x9;then aggregate( 'BGF_flate', 'sum', &quot;BGF1&quot;, &#x9;filter:=&quot;loc_num&quot;=4 )&#xd;&#xa;&#x9;when &quot;loc_num&quot; = 5&#xd;&#xa;&#x9;then aggregate( 'BGF_flate', 'sum', &quot;BGF1&quot;, &#x9;filter:=&quot;loc_num&quot;=5 )&#xd;&#xa;&#x9;when &quot;loc_num&quot; = 6&#xd;&#xa;&#x9;then aggregate( 'BGF_flate', 'sum', &quot;BGF1&quot;, &#x9;filter:=&quot;loc_num&quot;=6 )&#xd;&#xa;&#x9;when &quot;loc_num&quot; = 7&#xd;&#xa;&#x9;then aggregate( 'BGF_flate', 'sum', &quot;BGF1&quot;, &#x9;filter:=&quot;loc_num&quot;=7 )&#xd;&#xa;&#x9;when &quot;loc_num&quot; = 8&#x9;&#xd;&#xa;&#x9;then aggregate( 'BGF_flate', 'sum', &quot;BGF1&quot;, &#x9;filter:=&quot;loc_num&quot;=8 )&#xd;&#xa;&#x9;when &quot;loc_num&quot; = 9&#xd;&#xa;&#x9;then aggregate( 'BGF_flate', 'sum', &quot;BGF1&quot;, &#x9;filter:=&quot;loc_num&quot;=9 )&#xd;&#xa;&#x9;when &quot;loc_num&quot; = 10&#xd;&#xa;&#x9;then aggregate( 'BGF_flate', 'sum', &quot;BGF1&quot;, &#x9;filter:=&quot;loc_num&quot;=10 )&#xd;&#xa;&#x9;else NULL&#xd;&#xa;END" length="10" type="6" comment="" name="tot_BGF1"/>
@@ -1132,6 +701,7 @@ def my_form_open(dialog, layer, feature):
         <field typeName="double" precision="3" expression="case&#xd;&#xa;&#x9;when &quot;Loc_num&quot; = 1&#xd;&#xa;&#x9;then  if(aggregate('BGF_flate' , 'count_distinct', &quot;E1&quot;, filter:= &quot;Loc_num&quot; = 1) = 1, 0.05, null) + &#xd;&#xa;&#x9;(&quot;tot_BGF1&quot; + &quot;tot_BGF2&quot;) /   &quot;BGF_locality_area_loc_area&quot; &#xd;&#xa;&#x9;when &quot;Loc_num&quot; = 2&#xd;&#xa;&#x9;then  if(aggregate('BGF_flate' , 'count_distinct', &quot;E1&quot;, filter:= &quot;Loc_num&quot; = 2) = 1, 0.05, null) + &#xd;&#xa;&#x9;(&quot;tot_BGF1&quot; + &quot;tot_BGF2&quot;) /   &quot;BGF_locality_area_loc_area&quot; &#xd;&#xa;&#x9;when &quot;Loc_num&quot; = 3&#xd;&#xa;&#x9;then  if(aggregate('BGF_flate' , 'count_distinct', &quot;E1&quot;, filter:= &quot;Loc_num&quot; = 3) = 1, 0.05, null) + &#xd;&#xa;&#x9;(&quot;tot_BGF1&quot; + &quot;tot_BGF2&quot;) /   &quot;BGF_locality_area_loc_area&quot; &#xd;&#xa;&#x9;when &quot;Loc_num&quot; = 4&#xd;&#xa;&#x9;then  if(aggregate('BGF_flate' , 'count_distinct', &quot;E1&quot;, filter:= &quot;Loc_num&quot; = 4) = 1, 0.05, null) + &#xd;&#xa;&#x9;(&quot;tot_BGF1&quot; + &quot;tot_BGF2&quot;) /   &quot;BGF_locality_area_loc_area&quot; &#xd;&#xa;&#x9;when &quot;Loc_num&quot; = 5&#xd;&#xa;&#x9;then  if(aggregate('BGF_flate' , 'count_distinct', &quot;E1&quot;, filter:= &quot;Loc_num&quot; = 5) = 1, 0.05, null) + &#xd;&#xa;&#x9;(&quot;tot_BGF1&quot; + &quot;tot_BGF2&quot;) /   &quot;BGF_locality_area_loc_area&quot; &#xd;&#xa;&#x9;when &quot;Loc_num&quot; = 6&#xd;&#xa;&#x9;then  if(aggregate('BGF_flate' , 'count_distinct', &quot;E1&quot;, filter:= &quot;Loc_num&quot; = 6) = 1, 0.05, null) + &#xd;&#xa;&#x9;(&quot;tot_BGF1&quot; + &quot;tot_BGF2&quot;) /   &quot;BGF_locality_area_loc_area&quot; &#xd;&#xa;&#x9;when &quot;Loc_num&quot; = 7&#xd;&#xa;&#x9;then  if(aggregate('BGF_flate' , 'count_distinct', &quot;E1&quot;, filter:= &quot;Loc_num&quot; = 7) = 1, 0.05, null) + &#xd;&#xa;&#x9;(&quot;tot_BGF1&quot; + &quot;tot_BGF2&quot;) /   &quot;BGF_locality_area_loc_area&quot; &#xd;&#xa;&#x9;when &quot;Loc_num&quot; = 8&#xd;&#xa;&#x9;then  if(aggregate('BGF_flate' , 'count_distinct', &quot;E1&quot;, filter:= &quot;Loc_num&quot; = 8) = 1, 0.05, null) + &#xd;&#xa;&#x9;(&quot;tot_BGF1&quot; + &quot;tot_BGF2&quot;) /   &quot;BGF_locality_area_loc_area&quot; &#xd;&#xa;&#x9;when &quot;Loc_num&quot; = 9&#xd;&#xa;&#x9;then  if(aggregate('BGF_flate' , 'count_distinct', &quot;E1&quot;, filter:= &quot;Loc_num&quot; = 9) = 1, 0.05, null) + &#xd;&#xa;&#x9;(&quot;tot_BGF1&quot; + &quot;tot_BGF2&quot;) /   &quot;BGF_locality_area_loc_area&quot; &#xd;&#xa;&#x9;when &quot;Loc_num&quot; = 10&#xd;&#xa;&#x9;then  if(aggregate('BGF_flate' , 'count_distinct', &quot;E1&quot;, filter:= &quot;Loc_num&quot; = 10) = 1, 0.05, null) + &#xd;&#xa;&#x9;(&quot;tot_BGF1&quot; + &quot;tot_BGF2&quot;) /   &quot;BGF_locality_area_loc_area&quot; &#xd;&#xa;&#x9;&#xd;&#xa;END&#x9;" length="10" type="6" comment="" name="1_BG_lab_c"/>
         <field typeName="double" precision="3" expression="case&#xd;&#xa;&#x9;when &quot;Loc_num&quot; = 1&#xd;&#xa;&#x9;then  if(aggregate('BGF_flate' , 'count_distinct', &quot;E1&quot;, filter:= &quot;Loc_num&quot; = 1) = 1, 0.05, null) + &#xd;&#xa;&#x9;(&quot;tot_BGF1&quot; + &quot;tot_BGF2&quot;) /   &quot;BGF_locality_area_loc_area&quot; &#xd;&#xa;&#x9;when &quot;Loc_num&quot; = 2&#xd;&#xa;&#x9;then  if(aggregate('BGF_flate' , 'count_distinct', &quot;E1&quot;, filter:= &quot;Loc_num&quot; = 2) = 1, 0.05, null) + &#xd;&#xa;&#x9;(&quot;tot_BGF1&quot; + &quot;tot_BGF2&quot;) /   &quot;BGF_locality_area_loc_area&quot; &#xd;&#xa;&#x9;when &quot;Loc_num&quot; = 3&#xd;&#xa;&#x9;then  if(aggregate('BGF_flate' , 'count_distinct', &quot;E1&quot;, filter:= &quot;Loc_num&quot; = 3) = 1, 0.05, null) + &#xd;&#xa;&#x9;(&quot;tot_BGF1&quot; + &quot;tot_BGF2&quot;) /   &quot;BGF_locality_area_loc_area&quot; &#xd;&#xa;&#x9;when &quot;Loc_num&quot; = 4&#xd;&#xa;&#x9;then  if(aggregate('BGF_flate' , 'count_distinct', &quot;E1&quot;, filter:= &quot;Loc_num&quot; = 4) = 1, 0.05, null) + &#xd;&#xa;&#x9;(&quot;tot_BGF1&quot; + &quot;tot_BGF2&quot;) /   &quot;BGF_locality_area_loc_area&quot; &#xd;&#xa;&#x9;when &quot;Loc_num&quot; = 5&#xd;&#xa;&#x9;then  if(aggregate('BGF_flate' , 'count_distinct', &quot;E1&quot;, filter:= &quot;Loc_num&quot; = 5) = 1, 0.05, null) + &#xd;&#xa;&#x9;(&quot;tot_BGF1&quot; + &quot;tot_BGF2&quot;) /   &quot;BGF_locality_area_loc_area&quot; &#xd;&#xa;&#x9;when &quot;Loc_num&quot; = 6&#xd;&#xa;&#x9;then  if(aggregate('BGF_flate' , 'count_distinct', &quot;E1&quot;, filter:= &quot;Loc_num&quot; = 6) = 1, 0.05, null) + &#xd;&#xa;&#x9;(&quot;tot_BGF1&quot; + &quot;tot_BGF2&quot;) /   &quot;BGF_locality_area_loc_area&quot; &#xd;&#xa;&#x9;when &quot;Loc_num&quot; = 7&#xd;&#xa;&#x9;then  if(aggregate('BGF_flate' , 'count_distinct', &quot;E1&quot;, filter:= &quot;Loc_num&quot; = 7) = 1, 0.05, null) + &#xd;&#xa;&#x9;(&quot;tot_BGF1&quot; + &quot;tot_BGF2&quot;) /   &quot;BGF_locality_area_loc_area&quot; &#xd;&#xa;&#x9;when &quot;Loc_num&quot; = 8&#xd;&#xa;&#x9;then  if(aggregate('BGF_flate' , 'count_distinct', &quot;E1&quot;, filter:= &quot;Loc_num&quot; = 8) = 1, 0.05, null) + &#xd;&#xa;&#x9;(&quot;tot_BGF1&quot; + &quot;tot_BGF2&quot;) /   &quot;BGF_locality_area_loc_area&quot; &#xd;&#xa;&#x9;when &quot;Loc_num&quot; = 9&#xd;&#xa;&#x9;then  if(aggregate('BGF_flate' , 'count_distinct', &quot;E1&quot;, filter:= &quot;Loc_num&quot; = 9) = 1, 0.05, null) + &#xd;&#xa;&#x9;(&quot;tot_BGF1&quot; + &quot;tot_BGF2&quot;) /   &quot;BGF_locality_area_loc_area&quot; &#xd;&#xa;&#x9;when &quot;Loc_num&quot; = 10&#xd;&#xa;&#x9;then  if(aggregate('BGF_flate' , 'count_distinct', &quot;E1&quot;, filter:= &quot;Loc_num&quot; = 10) = 1, 0.05, null) + &#xd;&#xa;&#x9;(&quot;tot_BGF1&quot; + &quot;tot_BGF2&quot;) /   &quot;BGF_locality_area_loc_area&quot; &#xd;&#xa;&#x9;&#xd;&#xa;END&#x9;" length="10" type="6" comment="" name="BGF_final"/>
         <field typeName="double" precision="4" expression=" if ( &quot;BGF1&quot; is not NULL,  &#xd;&#xa; (&quot;BGF1&quot; / (&quot;tot_BGF1&quot; +  &quot;tot_BGF2&quot; )) * 100, &#xd;&#xa; (&quot;BGF2&quot; / (&quot;tot_BGF1&quot; +  &quot;tot_BGF2&quot; )) * 100) " length="10" type="6" comment="" name="BGF_contrb"/>
+        <field typeName="double" precision="3" expression=" (&quot;BGF_final&quot; /100)* &quot;BGF_contrb&quot; " length="10" type="6" comment="" name="BGF_abs"/>
       </expressionfields>
       <map-layer-style-manager current="">
         <map-layer-style name=""/>
@@ -1213,6 +783,9 @@ def my_form_open(dialog, layer, feature):
           <widgetv2config IsMultiline="0" fieldEditable="0" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
         <edittype widgetv2type="TextEdit" name="BGF_contrb">
+          <widgetv2config IsMultiline="0" fieldEditable="0" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="BGF_abs">
           <widgetv2config IsMultiline="0" fieldEditable="0" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
       </edittypes>
@@ -1561,8 +1134,8 @@ def my_form_open(dialog, layer, feature):
         </symbols>
       </renderer-v2>
       <labeling type="rule-based">
-        <rules key="{613a7fc3-8381-4e81-9a71-4b89d76cbddb}">
-          <rule scalemaxdenom="750" description="zoomed_in" key="{89fee9ad-a4f2-42b4-8ab7-e45fc4a803c6}" scalemindenom="1">
+        <rules key="{5e011201-ce46-4c37-955b-418e6b819b71}">
+          <rule scalemaxdenom="750" description="zoomed_in" key="{7492808c-78dc-41f2-9503-32e0c410bd0e}" scalemindenom="1">
             <settings>
               <text-style fontItalic="0" fontFamily="MS Shell Dlg 2" fontLetterSpacing="0" fontUnderline="0" fontWeight="50" fontStrikeout="0" textTransp="0" previewBkgrdColor="#ffffff" fontCapitals="0" textColor="0,0,0,255" fontSizeInMapUnits="0" isExpression="1" blendMode="0" fontSizeMapUnitScale="0,0,0,0,0,0" fontSize="8.25" fieldName="CASE &#xd;&#xa;&#x9;WHEN  &quot;1_BG_surf&quot;  IS NOT NULL&#xd;&#xa;&#x9;THEN  &quot;1_BG_label&quot;  &#xd;&#xa;&#x9;ELSE  &quot;2_BG_label&quot; &#xd;&#xa;END" namedStyle="Normal" fontWordSpacing="0" useSubstitutions="0">
                 <substitutions/>
@@ -1576,7 +1149,7 @@ def my_form_open(dialog, layer, feature):
               <data-defined/>
             </settings>
           </rule>
-          <rule scalemaxdenom="100000" description="zoomed_out" key="{6ac55d79-9c76-4da5-8b88-84e941293337}" scalemindenom="750">
+          <rule scalemaxdenom="100000" description="zoomed_out" key="{40fc3c24-3b78-4c75-96b4-137cb548eb2f}" scalemindenom="750">
             <settings>
               <text-style fontItalic="0" fontFamily="MS Shell Dlg 2" fontLetterSpacing="0" fontUnderline="0" fontWeight="50" fontStrikeout="0" textTransp="0" previewBkgrdColor="#ffffff" fontCapitals="0" textColor="0,0,0,255" fontSizeInMapUnits="0" isExpression="1" blendMode="0" fontSizeMapUnitScale="0,0,0,0,0,0" fontSize="8.25" fieldName="CASE &#xd;&#xa;&#x9;WHEN  &quot;1_BG_surf&quot;  IS NOT NULL&#xd;&#xa;&#x9;THEN   &quot;1_BG_lab_c&quot;   &#xd;&#xa;&#x9;ELSE   &quot;2_BG_lab_c&quot;  &#xd;&#xa;END" namedStyle="Normal" fontWordSpacing="0" useSubstitutions="0">
                 <substitutions/>
@@ -1816,6 +1389,7 @@ def my_form_open(dialog, layer, feature):
         <alias field="E1_connect" index="23" name="connectivity"/>
         <alias field="BGF_final" index="24" name="BGF Final"/>
         <alias field="BGF_contrb" index="25" name="Contribution to BGF (%)"/>
+        <alias field="BGF_abs" index="26" name=""/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
@@ -1849,6 +1423,7 @@ def my_form_open(dialog, layer, feature):
           <column width="-1" hidden="0" type="field" name="2_BG_lab_c"/>
           <column width="79" hidden="0" type="field" name="BGF_final"/>
           <column width="90" hidden="0" type="field" name="BGF_contrb"/>
+          <column width="-1" hidden="0" type="field" name="BGF_abs"/>
         </columns>
       </attributetableconfig>
       <editform>.</editform>
@@ -2005,6 +1580,7 @@ def my_form_open(dialog, layer, feature):
         <default field="E1_connect" expression=""/>
         <default field="BGF_final" expression=""/>
         <default field="BGF_contrb" expression=""/>
+        <default field="BGF_abs" expression=""/>
       </defaults>
       <previewExpression>COALESCE( "id", '&lt;NULL>' )</previewExpression>
     </maplayer>
@@ -2390,603 +1966,6 @@ def my_form_open(dialog, layer, feature):
       </defaults>
       <previewExpression>COALESCE( "id", '&lt;NULL>' )</previewExpression>
     </maplayer>
-    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
-      <extent>
-        <xmin>584100</xmin>
-        <ymin>6589800</ymin>
-        <xmax>630150</xmax>
-        <ymax>6642330</ymax>
-      </extent>
-      <id>BYGNING20170728182402349</id>
-      <datasource>contextualWMSLegend=0&amp;crs=EPSG:32632&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=BYGNING&amp;styles=&amp;url=http://195.1.20.83/wms-follo/</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>BYGNING</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=utm +zone=32 +datum=WGS84 +units=m +no_defs</proj4>
-          <srsid>3116</srsid>
-          <srid>32632</srid>
-          <authid>EPSG:32632</authid>
-          <description>WGS 84 / UTM zone 32N</description>
-          <projectionacronym>utm</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <customproperties>
-        <property key="embeddedWidgets/count" value="0"/>
-        <property key="identify/format" value="Undefined"/>
-      </customproperties>
-      <provider>wms</provider>
-      <noData>
-        <noDataList bandNo="1" useSrcNoData="0"/>
-      </noData>
-      <map-layer-style-manager current="">
-        <map-layer-style name=""/>
-      </map-layer-style-manager>
-      <pipe>
-        <rasterrenderer opacity="1" alphaBand="0" band="1" type="singlebandcolordata">
-          <rasterTransparency/>
-        </rasterrenderer>
-        <brightnesscontrast brightness="0" contrast="0"/>
-        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
-        <rasterresampler maxOversampling="2"/>
-      </pipe>
-      <blendMode>0</blendMode>
-    </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
-      <id>Bygning_polygon20170805184701584</id>
-      <datasource>./VECTOR/Bygning_polygon.shp</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>Bygning_polygon</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=utm +zone=32 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
-          <srsid>1009</srsid>
-          <srid>3044</srid>
-          <authid>EPSG:3044</authid>
-          <description>ETRS89 / ETRS-TM32</description>
-          <projectionacronym>utm</projectionacronym>
-          <ellipsoidacronym>GRS80</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <provider encoding="System">ogr</provider>
-      <vectorjoins/>
-      <layerDependencies/>
-      <expressionfields/>
-      <map-layer-style-manager current="">
-        <map-layer-style name=""/>
-      </map-layer-style-manager>
-      <edittypes>
-        <edittype widgetv2type="TextEdit" name="BYGGTYP_NB">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="OBJTYPE">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="BYGGNR">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="BYGGSTAT">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="IDENT_LOKA">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="sosi_objek">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="KOMM">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="IDENT_NAVN">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="IDENT_VERS">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="sosi_tegns">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="sosi_sosi_">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="sosi_obj00">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="sosi_trans">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="sosi_sos00">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="sosi_tra00">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="sosi_tra01">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="DATAFANGST">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="INFORMASJO">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="SEFRAKIDEN">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="SEFRAKID00">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="SEFRAKID01">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-      </edittypes>
-      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
-        <symbols>
-          <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
-            <layer pass="0" class="SimpleFill" locked="0">
-              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="241,244,199,255"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="offset" v="0,0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="175,179,138,255"/>
-              <prop k="outline_style" v="solid"/>
-              <prop k="outline_width" v="0.26"/>
-              <prop k="outline_width_unit" v="MM"/>
-              <prop k="style" v="solid"/>
-            </layer>
-          </symbol>
-        </symbols>
-        <rotation/>
-        <sizescale scalemethod="diameter"/>
-      </renderer-v2>
-      <labeling type="simple"/>
-      <customproperties>
-        <property key="embeddedWidgets/count" value="0"/>
-        <property key="labeling" value="pal"/>
-        <property key="labeling/addDirectionSymbol" value="false"/>
-        <property key="labeling/angleOffset" value="0"/>
-        <property key="labeling/blendMode" value="0"/>
-        <property key="labeling/bufferBlendMode" value="0"/>
-        <property key="labeling/bufferColorA" value="255"/>
-        <property key="labeling/bufferColorB" value="255"/>
-        <property key="labeling/bufferColorG" value="255"/>
-        <property key="labeling/bufferColorR" value="255"/>
-        <property key="labeling/bufferDraw" value="false"/>
-        <property key="labeling/bufferJoinStyle" value="128"/>
-        <property key="labeling/bufferNoFill" value="false"/>
-        <property key="labeling/bufferSize" value="1"/>
-        <property key="labeling/bufferSizeInMapUnits" value="false"/>
-        <property key="labeling/bufferSizeMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/bufferTransp" value="0"/>
-        <property key="labeling/centroidInside" value="false"/>
-        <property key="labeling/centroidWhole" value="false"/>
-        <property key="labeling/decimals" value="3"/>
-        <property key="labeling/displayAll" value="false"/>
-        <property key="labeling/dist" value="0"/>
-        <property key="labeling/distInMapUnits" value="false"/>
-        <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/drawLabels" value="false"/>
-        <property key="labeling/enabled" value="false"/>
-        <property key="labeling/fieldName" value=""/>
-        <property key="labeling/fitInPolygonOnly" value="false"/>
-        <property key="labeling/fontCapitals" value="0"/>
-        <property key="labeling/fontFamily" value="MS Shell Dlg 2"/>
-        <property key="labeling/fontItalic" value="false"/>
-        <property key="labeling/fontLetterSpacing" value="0"/>
-        <property key="labeling/fontLimitPixelSize" value="false"/>
-        <property key="labeling/fontMaxPixelSize" value="10000"/>
-        <property key="labeling/fontMinPixelSize" value="3"/>
-        <property key="labeling/fontSize" value="8.25"/>
-        <property key="labeling/fontSizeInMapUnits" value="false"/>
-        <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/fontStrikeout" value="false"/>
-        <property key="labeling/fontUnderline" value="false"/>
-        <property key="labeling/fontWeight" value="50"/>
-        <property key="labeling/fontWordSpacing" value="0"/>
-        <property key="labeling/formatNumbers" value="false"/>
-        <property key="labeling/isExpression" value="true"/>
-        <property key="labeling/labelOffsetInMapUnits" value="true"/>
-        <property key="labeling/labelOffsetMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/labelPerPart" value="false"/>
-        <property key="labeling/leftDirectionSymbol" value="&lt;"/>
-        <property key="labeling/limitNumLabels" value="false"/>
-        <property key="labeling/maxCurvedCharAngleIn" value="25"/>
-        <property key="labeling/maxCurvedCharAngleOut" value="-25"/>
-        <property key="labeling/maxNumLabels" value="2000"/>
-        <property key="labeling/mergeLines" value="false"/>
-        <property key="labeling/minFeatureSize" value="0"/>
-        <property key="labeling/multilineAlign" value="4294967295"/>
-        <property key="labeling/multilineHeight" value="1"/>
-        <property key="labeling/namedStyle" value="Normal"/>
-        <property key="labeling/obstacle" value="true"/>
-        <property key="labeling/obstacleFactor" value="1"/>
-        <property key="labeling/obstacleType" value="0"/>
-        <property key="labeling/offsetType" value="0"/>
-        <property key="labeling/placeDirectionSymbol" value="0"/>
-        <property key="labeling/placement" value="1"/>
-        <property key="labeling/placementFlags" value="10"/>
-        <property key="labeling/plussign" value="false"/>
-        <property key="labeling/predefinedPositionOrder" value="TR,TL,BR,BL,R,L,TSR,BSR"/>
-        <property key="labeling/preserveRotation" value="true"/>
-        <property key="labeling/previewBkgrdColor" value="#ffffff"/>
-        <property key="labeling/priority" value="5"/>
-        <property key="labeling/quadOffset" value="4"/>
-        <property key="labeling/repeatDistance" value="0"/>
-        <property key="labeling/repeatDistanceMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/repeatDistanceUnit" value="1"/>
-        <property key="labeling/reverseDirectionSymbol" value="false"/>
-        <property key="labeling/rightDirectionSymbol" value=">"/>
-        <property key="labeling/scaleMax" value="10000000"/>
-        <property key="labeling/scaleMin" value="1"/>
-        <property key="labeling/scaleVisibility" value="false"/>
-        <property key="labeling/shadowBlendMode" value="6"/>
-        <property key="labeling/shadowColorB" value="0"/>
-        <property key="labeling/shadowColorG" value="0"/>
-        <property key="labeling/shadowColorR" value="0"/>
-        <property key="labeling/shadowDraw" value="false"/>
-        <property key="labeling/shadowOffsetAngle" value="135"/>
-        <property key="labeling/shadowOffsetDist" value="1"/>
-        <property key="labeling/shadowOffsetGlobal" value="true"/>
-        <property key="labeling/shadowOffsetMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shadowOffsetUnits" value="1"/>
-        <property key="labeling/shadowRadius" value="1.5"/>
-        <property key="labeling/shadowRadiusAlphaOnly" value="false"/>
-        <property key="labeling/shadowRadiusMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shadowRadiusUnits" value="1"/>
-        <property key="labeling/shadowScale" value="100"/>
-        <property key="labeling/shadowTransparency" value="30"/>
-        <property key="labeling/shadowUnder" value="0"/>
-        <property key="labeling/shapeBlendMode" value="0"/>
-        <property key="labeling/shapeBorderColorA" value="255"/>
-        <property key="labeling/shapeBorderColorB" value="128"/>
-        <property key="labeling/shapeBorderColorG" value="128"/>
-        <property key="labeling/shapeBorderColorR" value="128"/>
-        <property key="labeling/shapeBorderWidth" value="0"/>
-        <property key="labeling/shapeBorderWidthMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shapeBorderWidthUnits" value="1"/>
-        <property key="labeling/shapeDraw" value="false"/>
-        <property key="labeling/shapeFillColorA" value="255"/>
-        <property key="labeling/shapeFillColorB" value="255"/>
-        <property key="labeling/shapeFillColorG" value="255"/>
-        <property key="labeling/shapeFillColorR" value="255"/>
-        <property key="labeling/shapeJoinStyle" value="64"/>
-        <property key="labeling/shapeOffsetMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shapeOffsetUnits" value="1"/>
-        <property key="labeling/shapeOffsetX" value="0"/>
-        <property key="labeling/shapeOffsetY" value="0"/>
-        <property key="labeling/shapeRadiiMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shapeRadiiUnits" value="1"/>
-        <property key="labeling/shapeRadiiX" value="0"/>
-        <property key="labeling/shapeRadiiY" value="0"/>
-        <property key="labeling/shapeRotation" value="0"/>
-        <property key="labeling/shapeRotationType" value="0"/>
-        <property key="labeling/shapeSVGFile" value=""/>
-        <property key="labeling/shapeSizeMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shapeSizeType" value="0"/>
-        <property key="labeling/shapeSizeUnits" value="1"/>
-        <property key="labeling/shapeSizeX" value="0"/>
-        <property key="labeling/shapeSizeY" value="0"/>
-        <property key="labeling/shapeTransparency" value="0"/>
-        <property key="labeling/shapeType" value="0"/>
-        <property key="labeling/substitutions" value="&lt;substitutions/>"/>
-        <property key="labeling/textColorA" value="255"/>
-        <property key="labeling/textColorB" value="0"/>
-        <property key="labeling/textColorG" value="0"/>
-        <property key="labeling/textColorR" value="0"/>
-        <property key="labeling/textTransp" value="0"/>
-        <property key="labeling/upsidedownLabels" value="0"/>
-        <property key="labeling/useSubstitutions" value="false"/>
-        <property key="labeling/wrapChar" value=""/>
-        <property key="labeling/xOffset" value="0"/>
-        <property key="labeling/yOffset" value="0"/>
-        <property key="labeling/zIndex" value="0"/>
-        <property key="variableNames"/>
-        <property key="variableValues"/>
-      </customproperties>
-      <blendMode>0</blendMode>
-      <featureBlendMode>0</featureBlendMode>
-      <layerTransparency>0</layerTransparency>
-      <displayfield>IDENT_LOKA</displayfield>
-      <label>0</label>
-      <labelattributes>
-        <label fieldname="" text="Label"/>
-        <family fieldname="" name="MS Shell Dlg 2"/>
-        <size fieldname="" units="pt" value="12"/>
-        <bold fieldname="" on="0"/>
-        <italic fieldname="" on="0"/>
-        <underline fieldname="" on="0"/>
-        <strikeout fieldname="" on="0"/>
-        <color fieldname="" red="0" blue="0" green="0"/>
-        <x fieldname=""/>
-        <y fieldname=""/>
-        <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
-        <angle fieldname="" value="0" auto="0"/>
-        <alignment fieldname="" value="center"/>
-        <buffercolor fieldname="" red="255" blue="255" green="255"/>
-        <buffersize fieldname="" units="pt" value="1"/>
-        <bufferenabled fieldname="" on=""/>
-        <multilineenabled fieldname="" on=""/>
-        <selectedonly on=""/>
-      </labelattributes>
-      <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
-        <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
-          <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
-          <attribute field="" color="#000000" label=""/>
-        </DiagramCategory>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
-          <layer pass="0" class="SimpleMarker" locked="0">
-            <prop k="angle" v="0"/>
-            <prop k="color" v="255,0,0,255"/>
-            <prop k="horizontal_anchor_point" v="1"/>
-            <prop k="joinstyle" v="bevel"/>
-            <prop k="name" v="circle"/>
-            <prop k="offset" v="0,0"/>
-            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-            <prop k="offset_unit" v="MM"/>
-            <prop k="outline_color" v="0,0,0,255"/>
-            <prop k="outline_style" v="solid"/>
-            <prop k="outline_width" v="0"/>
-            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
-            <prop k="outline_width_unit" v="MM"/>
-            <prop k="scale_method" v="diameter"/>
-            <prop k="size" v="2"/>
-            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-            <prop k="size_unit" v="MM"/>
-            <prop k="vertical_anchor_point" v="1"/>
-          </layer>
-        </symbol>
-      </SingleCategoryDiagramRenderer>
-      <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform>.</annotationform>
-      <aliases>
-        <alias field="BYGGTYP_NB" index="0" name=""/>
-        <alias field="OBJTYPE" index="1" name=""/>
-        <alias field="BYGGNR" index="2" name=""/>
-        <alias field="BYGGSTAT" index="3" name=""/>
-        <alias field="IDENT_LOKA" index="4" name=""/>
-        <alias field="sosi_objek" index="5" name=""/>
-        <alias field="KOMM" index="6" name=""/>
-        <alias field="IDENT_NAVN" index="7" name=""/>
-        <alias field="IDENT_VERS" index="8" name=""/>
-        <alias field="sosi_tegns" index="9" name=""/>
-        <alias field="sosi_sosi_" index="10" name=""/>
-        <alias field="sosi_obj00" index="11" name=""/>
-        <alias field="sosi_trans" index="12" name=""/>
-        <alias field="sosi_sos00" index="13" name=""/>
-        <alias field="sosi_tra00" index="14" name=""/>
-        <alias field="sosi_tra01" index="15" name=""/>
-        <alias field="DATAFANGST" index="16" name=""/>
-        <alias field="INFORMASJO" index="17" name=""/>
-        <alias field="SEFRAKIDEN" index="18" name=""/>
-        <alias field="SEFRAKID00" index="19" name=""/>
-        <alias field="SEFRAKID01" index="20" name=""/>
-      </aliases>
-      <excludeAttributesWMS/>
-      <excludeAttributesWFS/>
-      <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
-        <columns>
-          <column width="-1" hidden="0" type="field" name="BYGGTYP_NB"/>
-          <column width="-1" hidden="0" type="field" name="OBJTYPE"/>
-          <column width="-1" hidden="0" type="field" name="BYGGNR"/>
-          <column width="-1" hidden="0" type="field" name="BYGGSTAT"/>
-          <column width="-1" hidden="0" type="field" name="IDENT_LOKA"/>
-          <column width="-1" hidden="0" type="field" name="sosi_objek"/>
-          <column width="-1" hidden="0" type="field" name="KOMM"/>
-          <column width="-1" hidden="0" type="field" name="IDENT_NAVN"/>
-          <column width="-1" hidden="0" type="field" name="IDENT_VERS"/>
-          <column width="-1" hidden="0" type="field" name="sosi_tegns"/>
-          <column width="-1" hidden="0" type="field" name="sosi_sosi_"/>
-          <column width="-1" hidden="0" type="field" name="sosi_obj00"/>
-          <column width="-1" hidden="0" type="field" name="sosi_trans"/>
-          <column width="-1" hidden="0" type="field" name="sosi_sos00"/>
-          <column width="-1" hidden="0" type="field" name="sosi_tra00"/>
-          <column width="-1" hidden="0" type="field" name="sosi_tra01"/>
-          <column width="-1" hidden="0" type="field" name="DATAFANGST"/>
-          <column width="-1" hidden="0" type="field" name="INFORMASJO"/>
-          <column width="-1" hidden="0" type="field" name="SEFRAKIDEN"/>
-          <column width="-1" hidden="0" type="field" name="SEFRAKID00"/>
-          <column width="-1" hidden="0" type="field" name="SEFRAKID01"/>
-          <column width="-1" hidden="1" type="actions"/>
-        </columns>
-      </attributetableconfig>
-      <editform>.</editform>
-      <editforminit/>
-      <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath>.</editforminitfilepath>
-      <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
-"""
-QGIS forms can have a Python function that is called when the form is
-opened.
-
-Use this function to add extra logic to your forms.
-
-Enter the name of the function in the "Python Init function"
-field.
-An example follows:
-"""
-from qgis.PyQt.QtWidgets import QWidget
-
-def my_form_open(dialog, layer, feature):
-	geom = feature.geometry()
-	control = dialog.findChild(QWidget, "MyLineEdit")
-]]></editforminitcode>
-      <featformsuppress>0</featformsuppress>
-      <editorlayout>generatedlayout</editorlayout>
-      <widgets/>
-      <conditionalstyles>
-        <rowstyles/>
-        <fieldstyles/>
-      </conditionalstyles>
-      <defaults>
-        <default field="BYGGTYP_NB" expression=""/>
-        <default field="OBJTYPE" expression=""/>
-        <default field="BYGGNR" expression=""/>
-        <default field="BYGGSTAT" expression=""/>
-        <default field="IDENT_LOKA" expression=""/>
-        <default field="sosi_objek" expression=""/>
-        <default field="KOMM" expression=""/>
-        <default field="IDENT_NAVN" expression=""/>
-        <default field="IDENT_VERS" expression=""/>
-        <default field="sosi_tegns" expression=""/>
-        <default field="sosi_sosi_" expression=""/>
-        <default field="sosi_obj00" expression=""/>
-        <default field="sosi_trans" expression=""/>
-        <default field="sosi_sos00" expression=""/>
-        <default field="sosi_tra00" expression=""/>
-        <default field="sosi_tra01" expression=""/>
-        <default field="DATAFANGST" expression=""/>
-        <default field="INFORMASJO" expression=""/>
-        <default field="SEFRAKIDEN" expression=""/>
-        <default field="SEFRAKID00" expression=""/>
-        <default field="SEFRAKID01" expression=""/>
-      </defaults>
-      <previewExpression></previewExpression>
-    </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
-      <extent>
-        <xmin>584100</xmin>
-        <ymin>6590403</ymin>
-        <xmax>630150</xmax>
-        <ymax>6642330</ymax>
-      </extent>
-      <id>EIENDOMSKART20170728182519731</id>
-      <datasource>contextualWMSLegend=0&amp;crs=EPSG:32632&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=EIENDOMSKART&amp;styles=&amp;url=http://195.1.20.83/wms-follo/</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>EIENDOMSKART</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=utm +zone=32 +datum=WGS84 +units=m +no_defs</proj4>
-          <srsid>3116</srsid>
-          <srid>32632</srid>
-          <authid>EPSG:32632</authid>
-          <description>WGS 84 / UTM zone 32N</description>
-          <projectionacronym>utm</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <customproperties>
-        <property key="identify/format" value="Undefined"/>
-      </customproperties>
-      <provider>wms</provider>
-      <noData>
-        <noDataList bandNo="1" useSrcNoData="0"/>
-      </noData>
-      <map-layer-style-manager current="">
-        <map-layer-style name=""/>
-      </map-layer-style-manager>
-      <pipe>
-        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
-          <rasterTransparency/>
-        </rasterrenderer>
-        <brightnesscontrast brightness="0" contrast="0"/>
-        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
-        <rasterresampler maxOversampling="2"/>
-      </pipe>
-      <blendMode>0</blendMode>
-    </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
-      <extent>
-        <xmin>586400</xmin>
-        <ymin>6592200</ymin>
-        <xmax>625600</xmax>
-        <ymax>6640200</ymax>
-      </extent>
-      <id>FLYFOTO1420170728103239421</id>
-      <datasource>contextualWMSLegend=0&amp;crs=EPSG:32632&amp;dpiMode=7&amp;featureCount=10&amp;format=image/jpeg&amp;layers=FLYFOTO14&amp;styles=&amp;url=http://195.1.20.83/wms-follo/</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>FLYFOTO14</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=utm +zone=32 +datum=WGS84 +units=m +no_defs</proj4>
-          <srsid>3116</srsid>
-          <srid>32632</srid>
-          <authid>EPSG:32632</authid>
-          <description>WGS 84 / UTM zone 32N</description>
-          <projectionacronym>utm</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <customproperties>
-        <property key="identify/format" value="Undefined"/>
-      </customproperties>
-      <provider>wms</provider>
-      <noData>
-        <noDataList bandNo="1" useSrcNoData="0"/>
-      </noData>
-      <map-layer-style-manager current="">
-        <map-layer-style name=""/>
-      </map-layer-style-manager>
-      <pipe>
-        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
-          <rasterTransparency/>
-        </rasterrenderer>
-        <brightnesscontrast brightness="0" contrast="0"/>
-        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
-        <rasterresampler maxOversampling="2"/>
-      </pipe>
-      <blendMode>0</blendMode>
-    </maplayer>
-    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
-      <extent>
-        <xmin>586400</xmin>
-        <ymin>6593400</ymin>
-        <xmax>626400</xmax>
-        <ymax>6640200</ymax>
-      </extent>
-      <id>ORTOFOTO1320170805164047313</id>
-      <datasource>contextualWMSLegend=0&amp;crs=EPSG:32632&amp;dpiMode=7&amp;featureCount=10&amp;format=image/jpeg&amp;layers=ORTOFOTO13&amp;styles=&amp;url=http://195.1.20.83/wms-follo/</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>ORTOFOTO13</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=utm +zone=32 +datum=WGS84 +units=m +no_defs</proj4>
-          <srsid>3116</srsid>
-          <srid>32632</srid>
-          <authid>EPSG:32632</authid>
-          <description>WGS 84 / UTM zone 32N</description>
-          <projectionacronym>utm</projectionacronym>
-          <ellipsoidacronym>WGS84</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <customproperties>
-        <property key="identify/format" value="Undefined"/>
-      </customproperties>
-      <provider>wms</provider>
-      <noData>
-        <noDataList bandNo="1" useSrcNoData="0"/>
-      </noData>
-      <map-layer-style-manager current="">
-        <map-layer-style name=""/>
-      </map-layer-style-manager>
-      <pipe>
-        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
-          <rasterTransparency/>
-        </rasterrenderer>
-        <brightnesscontrast brightness="0" contrast="0"/>
-        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
-        <rasterresampler maxOversampling="2"/>
-      </pipe>
-      <blendMode>0</blendMode>
-    </maplayer>
     <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="openlayers">
       <extent>
         <xmin>-20037508.33999999985098839</xmin>
@@ -2995,7 +1974,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>20037508.33999999985098839</ymax>
       </extent>
       <id>OpenLayers_plugin_layer20171108183329550</id>
-      <datasource></datasource>
+      <datasource>.</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3046,7 +2025,6 @@ def my_form_open(dialog, layer, feature):
     <WMSImageQuality type="int">90</WMSImageQuality>
     <WMSRestrictedComposers type="QStringList"/>
     <WMSServiceTitle type="QString"></WMSServiceTitle>
-    <WMSContactPhone type="QString"></WMSContactPhone>
     <PAL>
       <SearchMethod type="int">0</SearchMethod>
       <ShowingShadowRects type="bool">false</ShowingShadowRects>
@@ -3059,6 +2037,7 @@ def my_form_open(dialog, layer, feature):
       <ShowingAllLabels type="bool">false</ShowingAllLabels>
       <DrawOutlineLabels type="bool">true</DrawOutlineLabels>
     </PAL>
+    <WMSContactPhone type="QString"></WMSContactPhone>
     <Palette>
       <Colors type="QStringList">
         <value>106,194,189,255</value>
@@ -3098,14 +2077,10 @@ def my_form_open(dialog, layer, feature):
     <Digitizing>
       <DefaultSnapToleranceUnit type="int">2</DefaultSnapToleranceUnit>
       <LayerSnappingList type="QStringList">
-        <value>0214_Eiendom_teiggrense__Linje_20170805184701568</value>
         <value>BGF_flate20170728142824282</value>
         <value>BGF_locality_area20170801170703358</value>
-        <value>Bygning_polygon20170805184701584</value>
       </LayerSnappingList>
       <LayerSnappingEnabledList type="QStringList">
-        <value>enabled</value>
-        <value>enabled</value>
         <value>enabled</value>
         <value>enabled</value>
       </LayerSnappingEnabledList>
@@ -3115,12 +2090,8 @@ def my_form_open(dialog, layer, feature):
       <LayerSnappingToleranceUnitList type="QStringList">
         <value>1</value>
         <value>1</value>
-        <value>1</value>
-        <value>1</value>
       </LayerSnappingToleranceUnitList>
       <LayerSnapToList type="QStringList">
-        <value>to_vertex_and_segment</value>
-        <value>to_vertex_and_segment</value>
         <value>to_vertex_and_segment</value>
         <value>to_vertex_and_segment</value>
       </LayerSnapToList>
@@ -3128,9 +2099,7 @@ def my_form_open(dialog, layer, feature):
       <DefaultSnapTolerance type="double">0</DefaultSnapTolerance>
       <TopologicalEditing type="bool">true</TopologicalEditing>
       <LayerSnappingToleranceList type="QStringList">
-        <value>5.000000</value>
         <value>2.000000</value>
-        <value>10.000000</value>
         <value>10.000000</value>
       </LayerSnappingToleranceList>
     </Digitizing>
@@ -3164,11 +2133,11 @@ def my_form_open(dialog, layer, feature):
       <SelectionColorGreenPart type="int">255</SelectionColorGreenPart>
       <CanvasColorBluePart type="int">255</CanvasColorBluePart>
     </Gui>
-    <WFSLayers type="QStringList"/>
-    <WMSServiceAbstract type="QString"></WMSServiceAbstract>
     <Measure>
-      <Ellipsoid type="QString">NONE</Ellipsoid>
+      <Ellipsoid type="QString">WGS84</Ellipsoid>
     </Measure>
+    <WMSServiceAbstract type="QString"></WMSServiceAbstract>
+    <WFSLayers type="QStringList"/>
     <WFSUrl type="QString"></WFSUrl>
     <WMSServiceCapabilities type="bool">false</WMSServiceCapabilities>
     <WMSUseLayerIDs type="bool">false</WMSUseLayerIDs>
